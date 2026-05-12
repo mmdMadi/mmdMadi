@@ -17,12 +17,14 @@ class MmdMadi:
             "FastAPI + React/Next.js",
             "Automation & System Tools",
             "Security & Networking",
-            "SaaS & Dashboards"
+            "SaaS & Dashboards",
+            "Desktop Apps with PySide6"
         ]
         self.interests = [
             "Backend Architecture",
             "Custom Tool Building",
             "Security Research (CVEs)",
+            "Web Automation (Playwright)",
             "Open Source"
         ]
         self.mindset = "Build custom tools, automate everything 🔧"
@@ -47,7 +49,6 @@ class MmdMadi:
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 ### Frameworks & Libraries
@@ -57,7 +58,6 @@ class MmdMadi:
 ![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### Databases
@@ -83,9 +83,9 @@ class MmdMadi:
 | Category | Skills |
 |----------|--------|
 | 🐍 **Backend** | Python • FastAPI • Async Programming • API Development |
-| 🌐 **Frontend** | React • Next.js • Modern Web Apps • Dashboards |
+| 🌐 **Frontend** | React • Next.js • JavaScript • Modern Web Apps • Dashboards |
 | 🗄️ **Databases** | MongoDB • PostgreSQL • Redis • SQLite |
-| 🐳 **DevOps** | Docker • Linux • Bash • System Tools |
+| 🐳 **DevOps** | Docker • Linux • System Tools |
 | 🤖 **Automation** | Playwright • Selenium • Bots • Web Scraping |
 | 🔒 **Security** | CVE Research • Networking Security • DNS Tools |
 | 🔧 **Custom Tools** | Port Scanners • DNS Validators • System Utilities |
